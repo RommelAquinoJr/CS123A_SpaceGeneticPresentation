@@ -1,0 +1,20 @@
+Source	            Sample	    Characteristics[Organism]	    RNAContamination
+JSC1A	            GSM5691011	Arabidopsisthaliana	NCBITAXON	0.94
+Apollo11regolith	GSM5691012	Arabidopsisthaliana	NCBITAXON	3.37
+Apollo12regolith	GSM5691013	Arabidopsisthaliana	NCBITAXON	0.73
+Apollo17regolith	GSM5691014	Arabidopsisthaliana	NCBITAXON	0.52
+JSC1A	            GSM5691015	Arabidopsisthaliana	NCBITAXON	1.02
+Apollo11regolith	GSM5691016	Arabidopsisthaliana	NCBITAXON	0.43
+Apollo12regolith	GSM5691017	Arabidopsisthaliana	NCBITAXON	0.67
+Apollo17regolith	GSM5691018	Arabidopsisthaliana	NCBITAXON	0.49
+JSC1A	            GSM5691019	Arabidopsisthaliana	NCBITAXON	0.96
+Apollo11regolith	GSM5691020	Arabidopsisthaliana	NCBITAXON	0.41
+Apollo12regolith	GSM5691021	Arabidopsisthaliana	NCBITAXON	0.84
+Apollo17regolith	GSM5691022	Arabidopsisthaliana	NCBITAXON	7.25
+JSC1A         	    GSM5691023	Arabidopsisthaliana	NCBITAXON	0.73
+Apollo12regolith	GSM5691025	Arabidopsisthaliana	NCBITAXON	0.53
+Apollo17regolith	GSM5691026	Arabidopsisthaliana	NCBITAXON	0.65
+JSC1A              	GSM5691027	Arabidopsisthaliana	NCBITAXON	1.04
+JSC1A             	GSM5691028	Arabidopsisthaliana	NCBITAXON	0.74
+JSC1A	            GSM5691029	Arabidopsisthaliana	NCBITAXON	1.27
+JSC1A	            GSM5691030	Arabidopsisthaliana	NCBITAXON	0.67
