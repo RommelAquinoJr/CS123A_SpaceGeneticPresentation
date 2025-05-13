@@ -30,7 +30,7 @@ Install pip
 python3 -m ensurepip --upgrade
 ```
 
-3. make sure you have pandas installed
+4. make sure you have pandas installed
    * open terminal and type the following  
      
 Option 1
