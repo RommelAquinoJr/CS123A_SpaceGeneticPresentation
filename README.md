@@ -49,7 +49,7 @@ Option 4 (Jupyter Notebook)
 ```
 conda install pandas
 ```
-4. run the following line in the terminal  
+5. run the following line in the terminal  
 
 For PlantData.py
 ```
